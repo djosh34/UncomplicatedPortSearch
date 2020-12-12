@@ -1,0 +1,5 @@
+# Standard ds store ignore
+**/.DS_STORE
+
+# idea
+**/.idea
